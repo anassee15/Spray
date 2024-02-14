@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="images_tp_spray">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/images/images_tp_spray.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/images/images_tp_spray.jar!/" recursive="false" />
+  </library>
+</component>
